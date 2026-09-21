@@ -1,5 +1,9 @@
 {
-  "version": 1,
+  "version": 12,
   "updated": "2026-09-22",
-  "files": { "passes": "passes.json" }
+  "files": {
+    "passes": "passes.json",
+    "airport": "airport.json",
+    "fares": "fares.json"
+  }
 }
