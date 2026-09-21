@@ -1,0 +1,385 @@
+[
+ {
+  "id": "metro24",
+  "kind": "METRO",
+  "names": {
+   "ko": "도쿄메트로 24시간권",
+   "en": "Tokyo Metro 24-hour Ticket",
+   "ja": "東京メトロ24時間券"
+  },
+  "price": 700,
+  "validFor": "24시간 유효",
+  "validForNames": {
+   "ko": "24시간 유효",
+   "en": "Valid 24 hours",
+   "ja": "24時間有効"
+  },
+  "color": "#00a7db",
+  "meta": {
+   "ko": "메트로 9개 노선",
+   "en": "9 Metro lines",
+   "ja": "メトロ9路線"
+  },
+  "note": null,
+  "lines": [
+   28001,
+   28002,
+   28003,
+   28004,
+   28005,
+   28006,
+   28008,
+   28009,
+   28010
+  ],
+  "partial": false,
+  "priceUnverified": false
+ },
+ {
+  "id": "subway24",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "Tokyo Subway Ticket 24시간",
+   "en": "Tokyo Subway Ticket 24-hour",
+   "ja": "Tokyo Subway Ticket 24時間"
+  },
+  "price": 1000,
+  "validFor": "24시간 유효",
+  "validForNames": {
+   "ko": "24시간 유효",
+   "en": "Valid 24 hours",
+   "ja": "24時間有効"
+  },
+  "color": "#009bbf",
+  "meta": {
+   "ko": "메트로 9 + 도에이 4 노선",
+   "en": "9 Metro + 4 Toei lines",
+   "ja": "メトロ9 + 都営4路線"
+  },
+  "note": null,
+  "lines": [
+   28001,
+   28002,
+   28003,
+   28004,
+   28005,
+   28006,
+   28008,
+   28009,
+   28010,
+   99301,
+   99302,
+   99303,
+   99304
+  ],
+  "partial": false,
+  "priceUnverified": false
+ },
+ {
+  "id": "subway48",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "Tokyo Subway Ticket 48시간",
+   "en": "Tokyo Subway Ticket 48-hour",
+   "ja": "Tokyo Subway Ticket 48時間"
+  },
+  "price": 1500,
+  "validFor": "48시간 유효",
+  "validForNames": {
+   "ko": "48시간 유효",
+   "en": "Valid 48 hours",
+   "ja": "48時間有効"
+  },
+  "color": "#0086b3",
+  "meta": {
+   "ko": "메트로 9 + 도에이 4 노선",
+   "en": "9 Metro + 4 Toei lines",
+   "ja": "メトロ9 + 都営4路線"
+  },
+  "note": null,
+  "lines": [
+   28001,
+   28002,
+   28003,
+   28004,
+   28005,
+   28006,
+   28008,
+   28009,
+   28010,
+   99301,
+   99302,
+   99303,
+   99304
+  ],
+  "partial": false,
+  "priceUnverified": false
+ },
+ {
+  "id": "subway72",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "Tokyo Subway Ticket 72시간",
+   "en": "Tokyo Subway Ticket 72-hour",
+   "ja": "Tokyo Subway Ticket 72時間"
+  },
+  "price": 2000,
+  "validFor": "72시간 유효",
+  "validForNames": {
+   "ko": "72시간 유효",
+   "en": "Valid 72 hours",
+   "ja": "72時間有効"
+  },
+  "color": "#0079c2",
+  "meta": {
+   "ko": "메트로 9 + 도에이 4 노선",
+   "en": "9 Metro + 4 Toei lines",
+   "ja": "メトロ9 + 都営4路線"
+  },
+  "note": null,
+  "lines": [
+   28001,
+   28002,
+   28003,
+   28004,
+   28005,
+   28006,
+   28008,
+   28009,
+   28010,
+   99301,
+   99302,
+   99303,
+   99304
+  ],
+  "partial": false,
+  "priceUnverified": false
+ },
+ {
+  "id": "toei",
+  "kind": "TOEI",
+  "names": {
+   "ko": "도에이 마루고토 킷푸",
+   "en": "Toei One-Day Pass",
+   "ja": "都営まるごときっぷ"
+  },
+  "price": 700,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#b0197f",
+  "meta": {
+   "ko": "도에이 지하철 4 + 도덴 + 닛포리라이너",
+   "en": "4 Toei subway + Toden + Nippori-Toneri",
+   "ja": "都営地下鉄4 + 都電 + 日暮里舎人"
+  },
+  "note": {
+   "ko": "도에이 버스도 포함이지만 이 앱은 철도만 다룹니다",
+   "en": "Toei buses are included, but this app covers rail only",
+   "ja": "都営バスも対象ですが本アプリは鉄道のみ扱います"
+  },
+  "lines": [
+   99301,
+   99302,
+   99303,
+   99304,
+   99305,
+   99342
+  ],
+  "partial": false,
+  "priceUnverified": false
+ },
+ {
+  "id": "tokunai",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "도쿠나이 패스 (JR 23구)",
+   "en": "Tokunai Pass (JR 23 wards)",
+   "ja": "都区内パス"
+  },
+  "price": 870,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#8fbf3f",
+  "meta": {
+   "ko": "JR 보통열차 · 23구 안에서만",
+   "en": "JR local trains · 23 wards only",
+   "ja": "JR普通列車 · 23区内のみ"
+  },
+  "note": {
+   "ko": "JR 운임 데이터가 없어 이득 계산은 못 합니다",
+   "en": "No JR fare data, so savings cannot be calculated",
+   "ja": "JR運賃データがないため損得計算はできません"
+  },
+  "lines": [
+   11302,
+   11312,
+   11313,
+   11332,
+   11321,
+   11326,
+   11320
+  ],
+  "partial": true,
+  "priceUnverified": false
+ },
+ {
+  "id": "tokyofree",
+  "kind": "FREE",
+  "names": {
+   "ko": "도쿄 프리 킷푸",
+   "en": "Tokyo Free Kippu",
+   "ja": "東京フリーきっぷ"
+  },
+  "price": 1720,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#b4472c",
+  "meta": {
+   "ko": "메트로 9 + 도에이 4 + 도덴 + 닛포리·도네리 라이너 + JR 23구",
+   "en": "9 Metro + 4 Toei + Toden + Nippori-Toneri Liner + JR (23 wards)",
+   "ja": "メトロ9 + 都営4 + 都電 + 日暮里・舎人ライナー + JR(23区内)"
+  },
+  "note": {
+   "ko": "JR은 23구 안에서만, 도에이 버스도 포함이지만 이 앱은 철도만 다룹니다",
+   "en": "JR is valid within the 23 wards only. Toei buses are included, but this app covers rail only",
+   "ja": "JRは23区内のみ。都営バスも対象ですが本アプリは鉄道のみ扱います"
+  },
+  "lines": [
+   28001,
+   28002,
+   28003,
+   28004,
+   28005,
+   28006,
+   28008,
+   28009,
+   28010,
+   99301,
+   99302,
+   99303,
+   99304,
+   99305,
+   99342,
+   11302,
+   11312,
+   11313,
+   11332,
+   11321,
+   11326,
+   11320
+  ],
+  "partial": true,
+  "priceUnverified": false,
+  "source": "https://tabiris.com/archives/tokyo-freeticket2026/",
+  "verifiedAt": "2026-09-22"
+ },
+ {
+  "id": "monotokunai",
+  "kind": "FREE",
+  "names": {
+   "ko": "모노레일 & 도쿠나이 패스",
+   "en": "Monorail & Tokunai Pass",
+   "ja": "モノレール&都区内パス"
+  },
+  "price": 1450,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#5b6b7a",
+  "meta": {
+   "ko": "JR 23구 + 도쿄 모노레일",
+   "en": "JR (23 wards) + Tokyo Monorail",
+   "ja": "JR(23区内) + 東京モノレール"
+  },
+  "note": {
+   "ko": "JR은 23구 안에서만 탈 수 있습니다",
+   "en": "JR is valid within the 23 wards only",
+   "ja": "JRは23区内のみ有効です"
+  },
+  "lines": [
+   11302,
+   11312,
+   11313,
+   11332,
+   11321,
+   11326,
+   11320,
+   99336
+  ],
+  "partial": true,
+  "priceUnverified": false,
+  "source": "https://tabiris.com/archives/tokyo-freeticket2026/",
+  "verifiedAt": "2026-09-22"
+ },
+ {
+  "id": "yurikamome",
+  "kind": "LINE",
+  "names": {
+   "ko": "유리카모메 1일권",
+   "en": "Yurikamome One-Day",
+   "ja": "ゆりかもめ一日乗車券"
+  },
+  "price": 820,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#0090cd",
+  "meta": {
+   "ko": "유리카모메 전 구간",
+   "en": "Entire Yurikamome line",
+   "ja": "ゆりかもめ全線"
+  },
+  "note": null,
+  "lines": [
+   99311
+  ],
+  "partial": false,
+  "priceUnverified": true
+ },
+ {
+  "id": "rinkai",
+  "kind": "LINE",
+  "names": {
+   "ko": "린카이선 1일권",
+   "en": "Rinkai Line One-Day",
+   "ja": "りんかい線一日乗車券"
+  },
+  "price": 730,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#00609a",
+  "meta": {
+   "ko": "린카이선 전 구간",
+   "en": "Entire Rinkai line",
+   "ja": "りんかい線全線"
+  },
+  "note": null,
+  "lines": [
+   99337
+  ],
+  "partial": false,
+  "priceUnverified": true
+ }
+]
