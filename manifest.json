@@ -1,10 +1,7 @@
 {
-  "version": 17,
-  "updated": "2026-09-22",
+  "version": 19,
+  "updated": "2026-09-25",
   "files": {
-    "passes": "passes.json",
-    "airport": "airport.json",
-    "fares": "fares.json",
-    "times": "times.json"
+    "passes": "passes.json"
   }
 }
