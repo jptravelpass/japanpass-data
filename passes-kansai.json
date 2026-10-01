@@ -135,6 +135,87 @@
    "from": "2026-03-25",
    "to": "2027-03-31"
   },
+  "perks": [
+   {
+    "poi": "梅田スカイビル",
+    "yen": 2000,
+    "what": {
+     "ko": "공중정원 전망대 · 15시 입장까지",
+     "en": "Floating Garden Observatory · entry until 15:00",
+     "ja": "空中庭園展望台・15時入場まで"
+    }
+   },
+   {
+    "poi": "大阪城",
+    "yen": 1200,
+    "what": {
+     "ko": "천수각",
+     "en": "Main tower",
+     "ja": "天守閣"
+    }
+   },
+   {
+    "poi": "通天閣",
+    "yen": 1500,
+    "what": {
+     "ko": "전망대",
+     "en": "Observation deck",
+     "ja": "展望台"
+    }
+   },
+   {
+    "poi": "天王寺動物園",
+    "yen": 800
+   },
+   {
+    "poi": "四天王寺",
+    "yen": 800
+   },
+   {
+    "poi": "大阪歴史博物館",
+    "yen": 600,
+    "what": {
+     "ko": "상설전",
+     "en": "Permanent exhibition",
+     "ja": "常設展"
+    }
+   },
+   {
+    "poi": "大阪くらしの今昔館",
+    "yen": 600,
+    "what": {
+     "ko": "상설전",
+     "en": "Permanent exhibition",
+     "ja": "常設展"
+    }
+   },
+   {
+    "poi": "大阪市立美術館",
+    "yen": 500,
+    "what": {
+     "ko": "특별전 제외",
+     "en": "Not special exhibitions",
+     "ja": "特別展は別料金"
+    }
+   },
+   {
+    "poi": "咲くやこの花館",
+    "yen": 500
+   },
+   {
+    "poi": "国立国際美術館",
+    "yen": 430,
+    "what": {
+     "ko": "컬렉션전",
+     "en": "Collection exhibition",
+     "ja": "コレクション展"
+    }
+   },
+   {
+    "poi": "慶沢園",
+    "yen": 300
+   }
+  ],
   "source": "https://osaka-amazing-pass.com/en/howto_about_1day.html"
  },
  {
@@ -273,6 +354,87 @@
    "from": "2026-03-25",
    "to": "2027-03-31"
   },
+  "perks": [
+   {
+    "poi": "梅田スカイビル",
+    "yen": 2000,
+    "what": {
+     "ko": "공중정원 전망대 · 15시 입장까지",
+     "en": "Floating Garden Observatory · entry until 15:00",
+     "ja": "空中庭園展望台・15時入場まで"
+    }
+   },
+   {
+    "poi": "大阪城",
+    "yen": 1200,
+    "what": {
+     "ko": "천수각",
+     "en": "Main tower",
+     "ja": "天守閣"
+    }
+   },
+   {
+    "poi": "通天閣",
+    "yen": 1500,
+    "what": {
+     "ko": "전망대",
+     "en": "Observation deck",
+     "ja": "展望台"
+    }
+   },
+   {
+    "poi": "天王寺動物園",
+    "yen": 800
+   },
+   {
+    "poi": "四天王寺",
+    "yen": 800
+   },
+   {
+    "poi": "大阪歴史博物館",
+    "yen": 600,
+    "what": {
+     "ko": "상설전",
+     "en": "Permanent exhibition",
+     "ja": "常設展"
+    }
+   },
+   {
+    "poi": "大阪くらしの今昔館",
+    "yen": 600,
+    "what": {
+     "ko": "상설전",
+     "en": "Permanent exhibition",
+     "ja": "常設展"
+    }
+   },
+   {
+    "poi": "大阪市立美術館",
+    "yen": 500,
+    "what": {
+     "ko": "특별전 제외",
+     "en": "Not special exhibitions",
+     "ja": "特別展は別料金"
+    }
+   },
+   {
+    "poi": "咲くやこの花館",
+    "yen": 500
+   },
+   {
+    "poi": "国立国際美術館",
+    "yen": 430,
+    "what": {
+     "ko": "컬렉션전",
+     "en": "Collection exhibition",
+     "ja": "コレクション展"
+    }
+   },
+   {
+    "poi": "慶沢園",
+    "yen": 300
+   }
+  ],
   "source": "https://osaka-amazing-pass.com/en/howto_about_1day.html"
  },
  {
@@ -353,9 +515,9 @@
   },
   "color": "#00a0e9",
   "meta": {
-   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외) · 외국인",
-   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen) · foreign visitors",
-   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く) · 訪日外国人"
+   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외)",
+   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen)",
+   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く)"
   },
   "lines": [
    99618,
@@ -438,9 +600,9 @@
   },
   "color": "#00a0e9",
   "meta": {
-   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외) · 외국인",
-   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen) · foreign visitors",
-   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く) · 訪日外国人"
+   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외)",
+   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen)",
+   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く)"
   },
   "lines": [
    99618,
@@ -522,9 +684,9 @@
   },
   "color": "#0072bc",
   "meta": {
-   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
-   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
-   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
   },
   "lines": [
    11602,
@@ -578,9 +740,9 @@
   },
   "color": "#0072bc",
   "meta": {
-   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
-   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
-   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
   },
   "lines": [
    11602,
@@ -634,9 +796,9 @@
   },
   "color": "#0072bc",
   "meta": {
-   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
-   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
-   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
   },
   "lines": [
    11602,
@@ -690,9 +852,9 @@
   },
   "color": "#0072bc",
   "meta": {
-   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
-   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
-   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
   },
   "lines": [
    11602,
@@ -750,7 +912,44 @@
    99611
   ],
   "bus": [
-   "kyoto"
+   "kyoto",
+   "kbus:10008",
+   "kbus:10012",
+   "kbus:10018",
+   "kbus:10019",
+   "kbus:10031",
+   "kbus:10032",
+   "kbus:10033",
+   "kbus:10038",
+   "kbus:10040",
+   "kbus:10044",
+   "kbus:10045",
+   "kbus:10047",
+   "kbus:10048",
+   "kbus:10049",
+   "kbus:10050",
+   "kbus:10051",
+   "kbus:10056",
+   "kbus:10057",
+   "kbus:10058",
+   "kbus:10059",
+   "kbus:10060",
+   "kbus:10061",
+   "kbus:10062",
+   "kbus:10067",
+   "kbus:10068",
+   "kbus:10069",
+   "kbus:10070",
+   "kbus:10072",
+   "kbus:10074",
+   "kbus:10075",
+   "kbus:10076",
+   "kbus:10077",
+   "kbus:10078",
+   "kbus:10079",
+   "kbus:10080",
+   "kbus:10081",
+   "kbus:10082"
   ],
   "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000204850.html"
  },
@@ -813,9 +1012,9 @@
   },
   "color": "#d21644",
   "meta": {
-   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역) · 외국인",
-   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area) · foreign visitors",
-   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア) · 訪日外国人"
+   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역)",
+   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area)",
+   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア)"
   },
   "lines": [
    31001,
@@ -857,9 +1056,9 @@
   },
   "color": "#d21644",
   "meta": {
-   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역) · 외국인",
-   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area) · foreign visitors",
-   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア) · 訪日外国人"
+   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역)",
+   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area)",
+   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア)"
   },
   "lines": [
    31001,
@@ -901,9 +1100,9 @@
   },
   "color": "#ff4500",
   "meta": {
-   "ko": "한신 전 노선 (오사카 우메다·난바 ~ 고베) · 외국인",
-   "en": "All Hanshin lines (Osaka-Umeda / Namba – Kobe) · foreign visitors",
-   "ja": "阪神全線 · 訪日外国人"
+   "ko": "한신 전 노선 (오사카 우메다·난바 ~ 고베)",
+   "en": "All Hanshin lines (Osaka-Umeda / Namba – Kobe)",
+   "ja": "阪神全線"
   },
   "lines": [
    35001,
@@ -938,9 +1137,9 @@
   },
   "color": "#7a0026",
   "meta": {
-   "ko": "한큐 전 노선 (교토·고베·다카라즈카) · 외국인",
-   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka) · foreign visitors",
-   "ja": "阪急全線(京都・神戸・宝塚) · 訪日外国人"
+   "ko": "한큐 전 노선 (교토·고베·다카라즈카)",
+   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka)",
+   "ja": "阪急全線(京都・神戸・宝塚)"
   },
   "lines": [
    34001,
@@ -980,9 +1179,9 @@
   },
   "color": "#7a0026",
   "meta": {
-   "ko": "한큐 전 노선 (교토·고베·다카라즈카) · 외국인",
-   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka) · foreign visitors",
-   "ja": "阪急全線(京都・神戸・宝塚) · 訪日外国人"
+   "ko": "한큐 전 노선 (교토·고베·다카라즈카)",
+   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka)",
+   "ja": "阪急全線(京都・神戸・宝塚)"
   },
   "lines": [
    34001,
@@ -994,6 +1193,360 @@
    34009
   ],
   "source": "https://osaka-info.jp/en/discover-kansai/hankyu-tourist-pass/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "하루카 같은 특급은 특급권을 따로 사야 해요 · 사가노선은 호즈쿄까지",
+   "en": "Limited expresses such as Haruka need a separate ticket · Sagano Line up to Hozukyo",
+   "ja": "はるか等の特急は特急券が別途必要 · 嵯峨野線は保津峡まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-mini",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 미니 패스",
+   "en": "JR Kansai Mini Pass",
+   "ja": "関西ミニパス"
+  },
+  "price": 3000,
+  "days": 3,
+  "foreignOnly": true,
+  "validFor": "이어진 3일 유효",
+  "validForNames": {
+   "ko": "이어진 3일 유효",
+   "en": "Valid 3 consecutive days",
+   "ja": "連続3日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 보통·쾌속 (교토·오사카·고베·나라·간사이 공항)",
+   "en": "JR local and rapid trains in Kansai (Kyoto, Osaka, Kobe, Nara, Kansai Airport)",
+   "ja": "関西のJR普通・快速(京都・大阪・神戸・奈良・関西空港)"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "within": {
+   "11607": [
+    "木津",
+    "平城山",
+    "奈良",
+    "郡山",
+    "大和小泉",
+    "法隆寺",
+    "王寺",
+    "三郷",
+    "河内堅上",
+    "高井田",
+    "柏原",
+    "志紀",
+    "八尾",
+    "久宝寺",
+    "加美",
+    "平野",
+    "東部市場前",
+    "天王寺",
+    "新今宮",
+    "今宮",
+    "ＪＲ難波"
+   ],
+   "11614": [
+    "京都",
+    "梅小路京都西",
+    "丹波口",
+    "二条",
+    "円町",
+    "花園",
+    "太秦",
+    "嵯峨嵐山",
+    "保津峡"
+   ]
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansaimini/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "24시간권도 있어요 (¥1,850)",
+   "en": "24-hour version also sold (¥1,850)",
+   "ja": "24時間券もあり(1,850円)"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "keihan-kyoto-osaka",
+  "kind": "LINE",
+  "names": {
+   "ko": "게이한 교토·오사카 관광 패스",
+   "en": "Keihan Kyoto-Osaka Sightseeing Pass",
+   "ja": "KYOTO-OSAKA SIGHTSEEING PASS"
+  },
+  "price": 1650,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#1f6e43",
+  "meta": {
+   "ko": "게이한 전 노선 (오사카 요도야바시·나카노시마 ~ 교토 데마치야나기·우지)",
+   "en": "All Keihan lines (Osaka Yodoyabashi / Nakanoshima – Kyoto Demachiyanagi, Uji)",
+   "ja": "京阪全線(大津線を除く)"
+  },
+  "lines": [
+   33001,
+   33004,
+   33008,
+   33002
+  ],
+  "source": "https://www.keihan.co.jp/travel/en/trains/passes-for-visitors-to-japan/kyoto-osaka.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "24시간권도 있어요 (¥1,300)",
+   "en": "24-hour version also sold (¥1,300)",
+   "ja": "24時間券もあり(1,300円)"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "keihan-kyoto",
+  "kind": "LINE",
+  "names": {
+   "ko": "게이한 교토 관광 패스",
+   "en": "Keihan Kyoto Sightseeing Pass",
+   "ja": "KYOTO SIGHTSEEING PASS"
+  },
+  "price": 1100,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#1f6e43",
+  "meta": {
+   "ko": "게이한 교토 구간 (이와시미즈하치만구 ~ 데마치야나기) + 우지선",
+   "en": "Keihan in Kyoto (Iwashimizu-hachimangu – Demachiyanagi) + Uji Line",
+   "ja": "京阪 石清水八幡宮〜出町柳・宇治線"
+  },
+  "lines": [
+   33001,
+   33004,
+   33002
+  ],
+  "within": {
+   "33001": [
+    "三条",
+    "祇園四条",
+    "清水五条",
+    "七条",
+    "東福寺",
+    "鳥羽街道",
+    "伏見稲荷",
+    "龍谷大前深草",
+    "藤森",
+    "墨染",
+    "丹波橋",
+    "伏見桃山",
+    "中書島",
+    "淀",
+    "石清水八幡宮"
+   ]
+  },
+  "source": "https://www.keihan.co.jp/travel/en/trains/passes-for-visitors-to-japan/kyoto-osaka.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "keihan-kurama",
+  "kind": "LINE",
+  "names": {
+   "ko": "게이한 교토·오사카 관광 패스 (구라마·기부네판)",
+   "en": "Keihan Kyoto-Osaka Sightseeing Pass (Kurama & Kibune)",
+   "ja": "KYOTO-OSAKA SIGHTSEEING PASS (Greater KURAMA & KIBUNE area)"
+  },
+  "price": 2100,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#1f6e43",
+  "meta": {
+   "ko": "게이한 전 노선 + 에이잔 전철 (구라마·기부네)",
+   "en": "All Keihan lines + Eizan Railway (Kurama, Kibune)",
+   "ja": "京阪全線 + 叡山電車"
+  },
+  "lines": [
+   33001,
+   33004,
+   33008,
+   33002,
+   99606,
+   99607
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2027-03-31"
+  },
+  "source": "https://www.keihan.co.jp/travel/en/trains/passes-for-visitors-to-japan/eizan-railway.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "keihan-metro",
+  "kind": "LINE",
+  "names": {
+   "ko": "게이한 교토·오사카 관광 패스 (오사카 메트로판)",
+   "en": "Keihan Kyoto-Osaka Sightseeing Pass (Osaka Metro)",
+   "ja": "KYOTO-OSAKA SIGHTSEEING PASS 1day (Osaka Metro)"
+  },
+  "price": 2160,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#1f6e43",
+  "meta": {
+   "ko": "게이한 전 노선 + 오사카 메트로 전 노선·시티버스",
+   "en": "All Keihan lines + all Osaka Metro lines and city buses",
+   "ja": "京阪全線 + Osaka Metro全線・シティバス"
+  },
+  "lines": [
+   33001,
+   33004,
+   33008,
+   33002,
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625
+  ],
+  "bus": [
+   "osaka"
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2027-03-31"
+  },
+  "source": "https://www.keihan.co.jp/travel/en/trains/passes-for-visitors-to-japan/osaka-subway.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "스마트폰 QR 표 (스룻토 QRtto) · 산 날부터 3개월 안 아무 하루",
+   "en": "Smartphone QR ticket (Surutto QRtto) · any one day within 3 months of purchase",
+   "ja": "スマホのQR乗車券(スルッとQRtto) · 購入から3か月以内の任意の1日"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "kobe-subway",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "고베 지하철 1일권",
+   "en": "Kobe Subway 1-day Ticket",
+   "ja": "神戸市営地下鉄QR1日乗車券"
+  },
+  "price": 980,
+  "days": 1,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#00a650",
+  "meta": {
+   "ko": "고베 지하철 전 노선 (세이신·야마테·가이간·호쿠신선)",
+   "en": "All Kobe Subway lines (Seishin-Yamate, Kaigan, Hokushin)",
+   "ja": "神戸市営地下鉄全線"
+  },
+  "lines": [
+   99645,
+   99646,
+   99647,
+   99636
+  ],
+  "sale": {
+   "from": "2026-04-01",
+   "to": "2027-03-31"
+  },
+  "source": "https://kotsu.city.kobe.lg.jp/ensen-navi/bus-railway/kobecitysubwayqr1dayticket/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "호류지(72번)는 넓은 판(Wide)에서만",
+   "en": "Horyuji (route 72) only with the Wide version",
+   "ja": "法隆寺(72系統)はWide版のみ"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "nara-bus-1day",
+  "kind": "BUS",
+  "names": {
+   "ko": "나라공원·니시노쿄 세계유산 1-Day Pass",
+   "en": "Nara Park & Nishinokyo World Heritage 1-Day Pass",
+   "ja": "奈良公園・西ノ京 世界遺産 1-Day Pass"
+  },
+  "price": 600,
+  "days": 1,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#e8590c",
+  "meta": {
+   "ko": "나라교통 버스 · 나라공원·니시노쿄 (도다이지·가스가타이샤·야쿠시지 등)",
+   "en": "Nara Kotsu buses · Nara Park and Nishinokyo (Todaiji, Kasuga Taisha, Yakushiji …)",
+   "ja": "奈良交通バス · 奈良公園・西ノ京エリア"
+  },
+  "lines": [],
+  "bus": [
+   "narabus:loop-out",
+   "narabus:loop-in",
+   "narabus:7"
+  ],
+  "source": "https://ticket.jorudan.co.jp/narakotsu/nara-1d/ja/"
  },
  {
   "partial": false,
@@ -1021,9 +1574,9 @@
   },
   "color": "#2b3990",
   "meta": {
-   "ko": "간사이 공항 ↔ 덴노지 ¥1,300 · 오사카·신오사카 ¥1,800 · 교토 ¥2,200 · 하루카 자유석 · 외국인",
-   "en": "Kansai Airport ↔ Tennoji ¥1,300 · Osaka/Shin-Osaka ¥1,800 · Kyoto ¥2,200 · Haruka non-reserved · foreign visitors",
-   "ja": "関西空港 ↔ 天王寺1,300円・大阪/新大阪1,800円・京都2,200円 · はるか自由席 · 訪日外国人"
+   "ko": "간사이 공항 ↔ 덴노지 ¥1,300 · 오사카·신오사카 ¥1,800 · 교토 ¥2,200 · 하루카 자유석",
+   "en": "Kansai Airport ↔ Tennoji ¥1,300 · Osaka/Shin-Osaka ¥1,800 · Kyoto ¥2,200 · Haruka non-reserved",
+   "ja": "関西空港 ↔ 天王寺1,300円・大阪/新大阪1,800円・京都2,200円 · はるか自由席"
   },
   "lines": [
    11602,
