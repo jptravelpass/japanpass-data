@@ -1,0 +1,1097 @@
+[
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "사철은 오사카 시내 구간만 (한큐·한신·게이한·긴테쓰·난카이)",
+   "en": "Private railways only within Osaka City (Hankyu, Hanshin, Keihan, Kintetsu, Nankai)",
+   "ja": "私鉄は大阪市内の区間のみ"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "osaka-amazing-1",
+  "kind": "PASS",
+  "names": {
+   "ko": "오사카 어메이징 패스 1일권",
+   "en": "Osaka Amazing Pass 1-day",
+   "ja": "大阪周遊パス 1日券"
+  },
+  "price": 3500,
+  "days": 1,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#e4007f",
+  "meta": {
+   "ko": "오사카 메트로 전 노선·시티버스 + 시내 사철 · 관광지 40여 곳 무료",
+   "en": "All Osaka Metro lines, city buses and private railways in the city · 40+ attractions free",
+   "ja": "Osaka Metro全線・シティバス・市内の私鉄 · 観光施設40以上無料"
+  },
+  "lines": [
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625,
+   31001,
+   31005,
+   32001,
+   33001,
+   33008,
+   34001,
+   34002,
+   34003,
+   34008,
+   35001
+  ],
+  "within": {
+   "31001": [
+    "大阪難波",
+    "近鉄日本橋",
+    "大阪上本町"
+   ],
+   "31005": [
+    "大阪上本町",
+    "鶴橋",
+    "今里"
+   ],
+   "32001": [
+    "難波",
+    "新今宮",
+    "天下茶屋",
+    "岸里玉出",
+    "粉浜",
+    "住吉大社",
+    "住ノ江",
+    "七道",
+    "堺"
+   ],
+   "33001": [
+    "千林",
+    "森小路",
+    "関目",
+    "野江",
+    "京橋",
+    "天満橋",
+    "北浜",
+    "淀屋橋"
+   ],
+   "33008": [
+    "天満橋",
+    "なにわ橋",
+    "大江橋",
+    "渡辺橋",
+    "中之島"
+   ],
+   "34001": [
+    "大阪梅田",
+    "中津",
+    "十三",
+    "神崎川"
+   ],
+   "34002": [
+    "大阪梅田",
+    "中津",
+    "十三",
+    "三国"
+   ],
+   "34003": [
+    "相川",
+    "上新庄",
+    "淡路",
+    "崇禅寺",
+    "南方",
+    "十三",
+    "大阪梅田"
+   ],
+   "34008": [
+    "下新庄",
+    "淡路",
+    "柴島",
+    "天神橋筋六丁目"
+   ],
+   "35001": [
+    "大阪梅田",
+    "福島",
+    "野田",
+    "淀川",
+    "姫島",
+    "千船",
+    "杭瀬",
+    "大物",
+    "尼崎"
+   ]
+  },
+  "bus": [
+   "osaka"
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2027-03-31"
+  },
+  "source": "https://osaka-amazing-pass.com/en/howto_about_1day.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "사철은 오사카 시내 구간만 (한큐·한신·게이한·긴테쓰·난카이)",
+   "en": "Private railways only within Osaka City (Hankyu, Hanshin, Keihan, Kintetsu, Nankai)",
+   "ja": "私鉄は大阪市内の区間のみ"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "osaka-amazing-2",
+  "kind": "PASS",
+  "names": {
+   "ko": "오사카 어메이징 패스 2일권",
+   "en": "Osaka Amazing Pass 2-day",
+   "ja": "大阪周遊パス 2日券"
+  },
+  "price": 5000,
+  "days": 2,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#e4007f",
+  "meta": {
+   "ko": "오사카 메트로 전 노선·시티버스 + 시내 사철 · 관광지 40여 곳 무료",
+   "en": "All Osaka Metro lines, city buses and private railways in the city · 40+ attractions free",
+   "ja": "Osaka Metro全線・シティバス・市内の私鉄 · 観光施設40以上無料"
+  },
+  "lines": [
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625,
+   31001,
+   31005,
+   32001,
+   33001,
+   33008,
+   34001,
+   34002,
+   34003,
+   34008,
+   35001
+  ],
+  "within": {
+   "31001": [
+    "大阪難波",
+    "近鉄日本橋",
+    "大阪上本町"
+   ],
+   "31005": [
+    "大阪上本町",
+    "鶴橋",
+    "今里"
+   ],
+   "32001": [
+    "難波",
+    "新今宮",
+    "天下茶屋",
+    "岸里玉出",
+    "粉浜",
+    "住吉大社",
+    "住ノ江",
+    "七道",
+    "堺"
+   ],
+   "33001": [
+    "千林",
+    "森小路",
+    "関目",
+    "野江",
+    "京橋",
+    "天満橋",
+    "北浜",
+    "淀屋橋"
+   ],
+   "33008": [
+    "天満橋",
+    "なにわ橋",
+    "大江橋",
+    "渡辺橋",
+    "中之島"
+   ],
+   "34001": [
+    "大阪梅田",
+    "中津",
+    "十三",
+    "神崎川"
+   ],
+   "34002": [
+    "大阪梅田",
+    "中津",
+    "十三",
+    "三国"
+   ],
+   "34003": [
+    "相川",
+    "上新庄",
+    "淡路",
+    "崇禅寺",
+    "南方",
+    "十三",
+    "大阪梅田"
+   ],
+   "34008": [
+    "下新庄",
+    "淡路",
+    "柴島",
+    "天神橋筋六丁目"
+   ],
+   "35001": [
+    "大阪梅田",
+    "福島",
+    "野田",
+    "淀川",
+    "姫島",
+    "千船",
+    "杭瀬",
+    "大物",
+    "尼崎"
+   ]
+  },
+  "bus": [
+   "osaka"
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2027-03-31"
+  },
+  "source": "https://osaka-amazing-pass.com/en/howto_about_1day.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "평일 ¥820, 토·일·공휴일과 연말연시(12/29~1/2) ¥620",
+   "en": "¥820 weekdays, ¥620 on weekends, holidays and Dec 29–Jan 2",
+   "ja": "平日820円・土日祝と年末年始(12/29~1/2)は620円"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "enjoy-eco",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "엔조이 에코 카드",
+   "en": "Enjoy Eco Card",
+   "ja": "エンジョイエコカード"
+  },
+  "price": 820,
+  "priceBy": {
+   "wd": 820,
+   "we": 620
+  },
+  "days": 1,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#0078ba",
+  "meta": {
+   "ko": "오사카 메트로 전 노선 + 시티버스 · 토휴일 ¥620",
+   "en": "All Osaka Metro lines + city buses · ¥620 on weekends/holidays",
+   "ja": "Osaka Metro全線 + シティバス · 土日祝620円"
+  },
+  "lines": [
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625
+  ],
+  "bus": [
+   "osaka"
+  ],
+  "source": "https://subway.osakametro.co.jp/guide/page/enjoy-eco.php"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 특급 지정석은 따로",
+   "en": "Sales ended 2026-09-30 (no resale announced) · reserved express seats extra",
+   "ja": "2026年9月30日販売終了 · 特急の座席指定は別"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "krp-lite-2",
+  "kind": "PASS",
+  "names": {
+   "ko": "간사이 레일웨이 패스 라이트 2일권",
+   "en": "Kansai Railway Pass Lite 2-day",
+   "ja": "KANSAI RAILWAY PASS LITE 2日券"
+  },
+  "price": 5200,
+  "days": 2,
+  "flex": true,
+  "foreignOnly": true,
+  "validFor": "아무 2일",
+  "validForNames": {
+   "ko": "아무 2일 (이어지지 않아도 됨)",
+   "en": "Any 2 days (not necessarily consecutive)",
+   "ja": "任意の2日間"
+  },
+  "color": "#00a0e9",
+  "meta": {
+   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외) · 외국인",
+   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen) · foreign visitors",
+   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く) · 訪日外国人"
+  },
+  "lines": [
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625,
+   99614,
+   99626,
+   99645,
+   99646,
+   99647,
+   99636,
+   99648,
+   99630,
+   99631,
+   99632,
+   99637,
+   33001,
+   33004,
+   33008,
+   33002,
+   34001,
+   34002,
+   34003,
+   34004,
+   34007,
+   34008,
+   34009,
+   35001,
+   35002,
+   31001,
+   31005,
+   31020,
+   31025,
+   31002,
+   31023,
+   32001,
+   32002,
+   99606,
+   99607,
+   99628,
+   99629
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2026-09-30"
+  },
+  "source": "https://www.surutto.com/kansai_rwpl/en/krp.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 특급 지정석은 따로",
+   "en": "Sales ended 2026-09-30 (no resale announced) · reserved express seats extra",
+   "ja": "2026年9月30日販売終了 · 特急の座席指定は別"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "krp-lite-3",
+  "kind": "PASS",
+  "names": {
+   "ko": "간사이 레일웨이 패스 라이트 3일권",
+   "en": "Kansai Railway Pass Lite 3-day",
+   "ja": "KANSAI RAILWAY PASS LITE 3日券"
+  },
+  "price": 6500,
+  "days": 3,
+  "flex": true,
+  "foreignOnly": true,
+  "validFor": "아무 3일",
+  "validForNames": {
+   "ko": "아무 3일 (이어지지 않아도 됨)",
+   "en": "Any 3 days (not necessarily consecutive)",
+   "ja": "任意の3日間"
+  },
+  "color": "#00a0e9",
+  "meta": {
+   "ko": "간사이 지하철·사철 전부 (JR·교토 지하철·란덴 제외) · 외국인",
+   "en": "All subways and private railways in Kansai (not JR, Kyoto Subway, Randen) · foreign visitors",
+   "ja": "関西の地下鉄・私鉄全線(JR・京都市営地下鉄・嵐電を除く) · 訪日外国人"
+  },
+  "lines": [
+   99618,
+   99619,
+   99620,
+   99621,
+   99622,
+   99623,
+   99624,
+   99652,
+   99625,
+   99614,
+   99626,
+   99645,
+   99646,
+   99647,
+   99636,
+   99648,
+   99630,
+   99631,
+   99632,
+   99637,
+   33001,
+   33004,
+   33008,
+   33002,
+   34001,
+   34002,
+   34003,
+   34004,
+   34007,
+   34008,
+   34009,
+   35001,
+   35002,
+   31001,
+   31005,
+   31020,
+   31025,
+   31002,
+   31023,
+   32001,
+   32002,
+   99606,
+   99607,
+   99628,
+   99629
+  ],
+  "sale": {
+   "from": "2026-03-25",
+   "to": "2026-09-30"
+  },
+  "source": "https://www.surutto.com/kansai_rwpl/en/krp.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 하루카 지정석 2회까지",
+   "en": "Sales ended 2026-09-30 (no resale announced) · Haruka reserved seats up to 2 times",
+   "ja": "2026年9月30日販売終了 · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-1",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 에어리어 패스 1일권",
+   "en": "JR Kansai Area Pass 1-day",
+   "ja": "関西エリアパス 1日間"
+  },
+  "price": 2800,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
+   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "sale": {
+   "to": "2026-09-30"
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 하루카 지정석 2회까지",
+   "en": "Sales ended 2026-09-30 (no resale announced) · Haruka reserved seats up to 2 times",
+   "ja": "2026年9月30日販売終了 · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-2",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 에어리어 패스 2일권",
+   "en": "JR Kansai Area Pass 2-day",
+   "ja": "関西エリアパス 2日間"
+  },
+  "price": 4800,
+  "days": 2,
+  "foreignOnly": true,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
+   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "sale": {
+   "to": "2026-09-30"
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 하루카 지정석 2회까지",
+   "en": "Sales ended 2026-09-30 (no resale announced) · Haruka reserved seats up to 2 times",
+   "ja": "2026年9月30日販売終了 · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-3",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 에어리어 패스 3일권",
+   "en": "JR Kansai Area Pass 3-day",
+   "ja": "関西エリアパス 3日間"
+  },
+  "price": 5800,
+  "days": 3,
+  "foreignOnly": true,
+  "validFor": "이어진 3일 유효",
+  "validForNames": {
+   "ko": "이어진 3일 유효",
+   "en": "Valid 3 consecutive days",
+   "ja": "連続3日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
+   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "sale": {
+   "to": "2026-09-30"
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 하루카 지정석 2회까지",
+   "en": "Sales ended 2026-09-30 (no resale announced) · Haruka reserved seats up to 2 times",
+   "ja": "2026年9月30日販売終了 · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-4",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 에어리어 패스 4일권",
+   "en": "JR Kansai Area Pass 4-day",
+   "ja": "関西エリアパス 4日間"
+  },
+  "price": 7000,
+  "days": 4,
+  "foreignOnly": true,
+  "validFor": "이어진 4일 유효",
+  "validForNames": {
+   "ko": "이어진 4일 유효",
+   "en": "Valid 4 consecutive days",
+   "ja": "連続4日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석 · 외국인",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats · foreign visitors",
+   "ja": "関西のJR全線 + はるか自由席 · 訪日外国人"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "sale": {
+   "to": "2026-09-30"
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "kyoto-subway-bus",
+  "kind": "PASS",
+  "names": {
+   "ko": "교토 지하철·버스 1일권",
+   "en": "Kyoto Subway & Bus 1-day Pass",
+   "ja": "地下鉄・バス1日券"
+  },
+  "price": 1100,
+  "days": 1,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#3cb371",
+  "meta": {
+   "ko": "교토 지하철 + 교토 시버스 전 노선 (일부 교토버스·게이한버스)",
+   "en": "Kyoto Subway + all Kyoto City Bus routes (some Kyoto Bus / Keihan Bus)",
+   "ja": "京都市営地下鉄 + 市バス全線(京都バス・京阪バスの一部)"
+  },
+  "lines": [
+   99610,
+   99611
+  ],
+  "bus": [
+   "kyoto"
+  ],
+  "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000204850.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "kyoto-subway",
+  "kind": "SUBWAY",
+  "names": {
+   "ko": "교토 지하철 1일권",
+   "en": "Kyoto Subway 1-day Pass",
+   "ja": "地下鉄1日券"
+  },
+  "price": 800,
+  "days": 1,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#ff4500",
+  "meta": {
+   "ko": "교토 지하철 가라스마선·도자이선",
+   "en": "Kyoto Subway Karasuma and Tozai lines",
+   "ja": "京都市営地下鉄 烏丸線・東西線"
+  },
+  "lines": [
+   99610,
+   99611
+  ],
+  "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000028376.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "특급은 특급권을 따로 사야 해요",
+   "en": "Limited express tickets cost extra",
+   "ja": "特急は特急券が別途必要"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "kintetsu-1",
+  "kind": "LINE",
+  "names": {
+   "ko": "긴테쓰 레일 패스 1일권",
+   "en": "Kintetsu Rail Pass 1-day",
+   "ja": "近鉄レールパス 1日間"
+  },
+  "price": 1900,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#d21644",
+  "meta": {
+   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역) · 외국인",
+   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area) · foreign visitors",
+   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア) · 訪日外国人"
+  },
+  "lines": [
+   31001,
+   31005,
+   31020,
+   31025,
+   31002,
+   31023
+  ],
+  "bus": [
+   "nara"
+  ],
+  "source": "https://www.kintetsu.co.jp/foreign/english/ticket/krp_1day.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "특급은 특급권을 따로 사야 해요",
+   "en": "Limited express tickets cost extra",
+   "ja": "特急は特急券が別途必要"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "kintetsu-2",
+  "kind": "LINE",
+  "names": {
+   "ko": "긴테쓰 레일 패스 2일권",
+   "en": "Kintetsu Rail Pass 2-day",
+   "ja": "近鉄レールパス 2日間"
+  },
+  "price": 3700,
+  "days": 2,
+  "foreignOnly": true,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#d21644",
+  "meta": {
+   "ko": "긴테쓰 (오사카·교토·나라) + 나라교통 버스(지정 구역) · 외국인",
+   "en": "Kintetsu (Osaka, Kyoto, Nara) + Nara Kotsu buses (designated area) · foreign visitors",
+   "ja": "近鉄(大阪・京都・奈良) + 奈良交通バス(指定エリア) · 訪日外国人"
+  },
+  "lines": [
+   31001,
+   31005,
+   31020,
+   31025,
+   31002,
+   31023
+  ],
+  "bus": [
+   "nara"
+  ],
+  "source": "https://www.kintetsu.co.jp/foreign/english/ticket/krp_2day.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": true,
+  "note": {
+   "ko": "가격을 공식 사이트에서 확인하지 못했어요 (안내마다 ¥500·¥700) · 고베 고속선은 제외",
+   "en": "Price not confirmed on the official site (¥500 or ¥700 in guides) · Kobe Kosoku Line not included",
+   "ja": "公式サイトで価格を確認できず · 神戸高速線は対象外"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "hanshin-1",
+  "kind": "LINE",
+  "names": {
+   "ko": "한신 투어리스트 패스",
+   "en": "Hanshin Tourist Pass",
+   "ja": "阪神ツーリストパス"
+  },
+  "price": 700,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#ff4500",
+  "meta": {
+   "ko": "한신 전 노선 (오사카 우메다·난바 ~ 고베) · 외국인",
+   "en": "All Hanshin lines (Osaka-Umeda / Namba – Kobe) · foreign visitors",
+   "ja": "阪神全線 · 訪日外国人"
+  },
+  "lines": [
+   35001,
+   35002
+  ],
+  "source": "https://www.kkday.com/en-us/product/23849"
+ },
+ {
+  "partial": false,
+  "priceUnverified": true,
+  "note": {
+   "ko": "가격은 오사카 관광국 안내 값 (공식 판매 페이지에서 확인하지 못했어요) · 고베 고속선은 제외",
+   "en": "Price from the Osaka tourism bureau guide (not confirmed on the official sales page) · Kobe Kosoku Line not included",
+   "ja": "大阪観光局の案内の価格 · 神戸高速線は対象外"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "hankyu-1",
+  "kind": "LINE",
+  "names": {
+   "ko": "한큐 투어리스트 패스 1일권",
+   "en": "Hankyu Tourist Pass 1-day",
+   "ja": "阪急ツーリストパス 1日"
+  },
+  "price": 800,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日有効"
+  },
+  "color": "#7a0026",
+  "meta": {
+   "ko": "한큐 전 노선 (교토·고베·다카라즈카) · 외국인",
+   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka) · foreign visitors",
+   "ja": "阪急全線(京都・神戸・宝塚) · 訪日外国人"
+  },
+  "lines": [
+   34001,
+   34002,
+   34003,
+   34004,
+   34007,
+   34008,
+   34009
+  ],
+  "source": "https://osaka-info.jp/en/discover-kansai/hankyu-tourist-pass/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": true,
+  "note": {
+   "ko": "가격은 오사카 관광국 안내 값 (공식 판매 페이지에서 확인하지 못했어요) · 고베 고속선은 제외",
+   "en": "Price from the Osaka tourism bureau guide (not confirmed on the official sales page) · Kobe Kosoku Line not included",
+   "ja": "大阪観光局の案内の価格 · 神戸高速線は対象外"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "hankyu-2",
+  "kind": "LINE",
+  "names": {
+   "ko": "한큐 투어리스트 패스 2일권",
+   "en": "Hankyu Tourist Pass 2-day",
+   "ja": "阪急ツーリストパス 2日"
+  },
+  "price": 1400,
+  "days": 2,
+  "foreignOnly": true,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#7a0026",
+  "meta": {
+   "ko": "한큐 전 노선 (교토·고베·다카라즈카) · 외국인",
+   "en": "All Hankyu lines (Kyoto, Kobe, Takarazuka) · foreign visitors",
+   "ja": "阪急全線(京都・神戸・宝塚) · 訪日外国人"
+  },
+  "lines": [
+   34001,
+   34002,
+   34003,
+   34004,
+   34007,
+   34008,
+   34009
+  ],
+  "source": "https://osaka-info.jp/en/discover-kansai/hankyu-tourist-pass/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "외국 여권·단기 체류 · 같은 기간에 한 장만 · 고베(¥2,000)·나라(¥1,800)는 JR 로 갈아타서",
+   "en": "Foreign passport, temporary visitor · one ticket per stay · Kobe (¥2,000) and Nara (¥1,800) with a JR transfer",
+   "ja": "外国パスポート・短期滞在 · 同一期間に1枚のみ · 神戸(2,000円)・奈良(1,800円)はJR乗り継ぎ"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "haruka-oneway",
+  "kind": "AIRPORT",
+  "names": {
+   "ko": "하루카 편도 티켓",
+   "en": "HARUKA One-way Ticket",
+   "ja": "はるか片道きっぷ"
+  },
+  "price": 2200,
+  "foreignOnly": true,
+  "validFor": "편도",
+  "validForNames": {
+   "ko": "편도",
+   "en": "One way",
+   "ja": "片道"
+  },
+  "color": "#2b3990",
+  "meta": {
+   "ko": "간사이 공항 ↔ 덴노지 ¥1,300 · 오사카·신오사카 ¥1,800 · 교토 ¥2,200 · 하루카 자유석 · 외국인",
+   "en": "Kansai Airport ↔ Tennoji ¥1,300 · Osaka/Shin-Osaka ¥1,800 · Kyoto ¥2,200 · Haruka non-reserved · foreign visitors",
+   "ja": "関西空港 ↔ 天王寺1,300円・大阪/新大阪1,800円・京都2,200円 · はるか自由席 · 訪日外国人"
+  },
+  "lines": [
+   11602,
+   11623,
+   11626,
+   11628,
+   11603,
+   11607
+  ],
+  "express": [
+   "haruka"
+  ],
+  "fromAirportOnly": true,
+  "airport": "関西空港",
+  "fares": {
+   "天王寺": 1300,
+   "大阪": 1800,
+   "新大阪": 1800,
+   "京都": 2200,
+   "三ノ宮": 2000,
+   "神戸": 2000,
+   "奈良": 1800
+  },
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "정가 ¥1,670 (운임 ¥970 + 특급 ¥700) · 슈퍼 시트 ¥1,740",
+   "en": "Regular ¥1,670 (fare ¥970 + express ¥700) · Super seat ¥1,740",
+   "ja": "通常1,670円(運賃970円+特急700円) · スーパーシート1,740円"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "rapit",
+  "kind": "AIRPORT",
+  "names": {
+   "ko": "간쿠 토쿠와리 라피트 티켓",
+   "en": "Kanku Tokuwari Rapi:t Ticket",
+   "ja": "関空トク割 ラピートきっぷ"
+  },
+  "price": 1560,
+  "validFor": "편도",
+  "validForNames": {
+   "ko": "편도 · 2일 안",
+   "en": "One way · within 2 days",
+   "ja": "片道 · 2日間有効"
+  },
+  "color": "#1d4e89",
+  "meta": {
+   "ko": "간사이 공항 ↔ 난바·신이마미야·덴가차야·사카이 라피트 레귤러 시트",
+   "en": "Kansai Airport ↔ Namba / Shin-Imamiya / Tengachaya / Sakai on the Rapi:t regular seat",
+   "ja": "関西空港 ↔ なんば・新今宮・天下茶屋・堺 ラピート レギュラーシート"
+  },
+  "lines": [
+   32001,
+   32002
+  ],
+  "express": [
+   "rapit"
+  ],
+  "airport": "関西空港",
+  "fares": {
+   "難波": 1560,
+   "新今宮": 1560,
+   "天下茶屋": 1560,
+   "堺": 1560
+  },
+  "source": "https://www.nankai.co.jp/traffic/otoku/kankutokuwari.html"
+ }
+]
