@@ -491,9 +491,9 @@
   "partial": false,
   "priceUnverified": false,
   "note": {
-   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 특급 지정석은 따로",
-   "en": "Sales ended 2026-09-30 (no resale announced) · reserved express seats extra",
-   "ja": "2026年9月30日販売終了 · 特急の座席指定は別"
+   "ko": "2027-03-31까지 판매 (2026-10 판) · 특급 지정석은 따로",
+   "en": "On sale until 2027-03-31 (October 2026 edition) · reserved express seats extra",
+   "ja": "2027年3月31日まで販売(2026年10月版) · 特急の座席指定は別"
   },
   "verifiedAt": "2026-10-01",
   "id": "krp-lite-2",
@@ -567,8 +567,8 @@
    99629
   ],
   "sale": {
-   "from": "2026-03-25",
-   "to": "2026-09-30"
+   "from": "2026-10-01",
+   "to": "2027-03-31"
   },
   "source": "https://www.surutto.com/kansai_rwpl/en/krp.html"
  },
@@ -576,9 +576,9 @@
   "partial": false,
   "priceUnverified": false,
   "note": {
-   "ko": "2026-09-30 판매 종료 (재판매 공지 없음) · 특급 지정석은 따로",
-   "en": "Sales ended 2026-09-30 (no resale announced) · reserved express seats extra",
-   "ja": "2026年9月30日販売終了 · 特急の座席指定は別"
+   "ko": "2027-03-31까지 판매 (2026-10 판) · 특급 지정석은 따로",
+   "en": "On sale until 2027-03-31 (October 2026 edition) · reserved express seats extra",
+   "ja": "2027年3月31日まで販売(2026年10月版) · 特急の座席指定は別"
   },
   "verifiedAt": "2026-10-01",
   "id": "krp-lite-3",
@@ -652,8 +652,8 @@
    99629
   ],
   "sale": {
-   "from": "2026-03-25",
-   "to": "2026-09-30"
+   "from": "2026-10-01",
+   "to": "2027-03-31"
   },
   "source": "https://www.surutto.com/kansai_rwpl/en/krp.html"
  },
@@ -1193,6 +1193,218 @@
    34009
   ],
   "source": "https://osaka-info.jp/en/discover-kansai/hankyu-tourist-pass/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "스마트폰 QR 승차권 (해외 여행사에서 사서 웹으로 개시) · 하루카 지정석 2회까지",
+   "en": "QR ticket on your smartphone (buy from an overseas agency, activate online) · Haruka reserved seats up to 2 times",
+   "ja": "スマホのQR乗車券(海外の旅行会社で購入しWebで開始) · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "westqr-kansai-1",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "WEST QR 간사이 에어리어 패스 1일권",
+   "en": "WEST QR Kansai Area Pass 1-day",
+   "ja": "WEST QR 関西エリアパス 1日間"
+  },
+  "price": 2700,
+  "days": 1,
+  "foreignOnly": true,
+  "validFor": "1일 유효",
+  "validForNames": {
+   "ko": "1일 유효",
+   "en": "Valid 1 day",
+   "ja": "1日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "source": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaiarea/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "스마트폰 QR 승차권 (해외 여행사에서 사서 웹으로 개시) · 하루카 지정석 2회까지",
+   "en": "QR ticket on your smartphone (buy from an overseas agency, activate online) · Haruka reserved seats up to 2 times",
+   "ja": "スマホのQR乗車券(海外の旅行会社で購入しWebで開始) · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "westqr-kansai-2",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "WEST QR 간사이 에어리어 패스 2일권",
+   "en": "WEST QR Kansai Area Pass 2-day",
+   "ja": "WEST QR 関西エリアパス 2日間"
+  },
+  "price": 4700,
+  "days": 2,
+  "foreignOnly": true,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "source": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaiarea/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "스마트폰 QR 승차권 (해외 여행사에서 사서 웹으로 개시) · 하루카 지정석 2회까지",
+   "en": "QR ticket on your smartphone (buy from an overseas agency, activate online) · Haruka reserved seats up to 2 times",
+   "ja": "スマホのQR乗車券(海外の旅行会社で購入しWebで開始) · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "westqr-kansai-3",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "WEST QR 간사이 에어리어 패스 3일권",
+   "en": "WEST QR Kansai Area Pass 3-day",
+   "ja": "WEST QR 関西エリアパス 3日間"
+  },
+  "price": 5500,
+  "days": 3,
+  "foreignOnly": true,
+  "validFor": "이어진 3일 유효",
+  "validForNames": {
+   "ko": "이어진 3일 유효",
+   "en": "Valid 3 consecutive days",
+   "ja": "連続3日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "source": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaiarea/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "스마트폰 QR 승차권 (해외 여행사에서 사서 웹으로 개시) · 하루카 지정석 2회까지",
+   "en": "QR ticket on your smartphone (buy from an overseas agency, activate online) · Haruka reserved seats up to 2 times",
+   "ja": "スマホのQR乗車券(海外の旅行会社で購入しWebで開始) · はるか指定席は2回まで"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "westqr-kansai-4",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "WEST QR 간사이 에어리어 패스 4일권",
+   "en": "WEST QR Kansai Area Pass 4-day",
+   "ja": "WEST QR 関西エリアパス 4日間"
+  },
+  "price": 6700,
+  "days": 4,
+  "foreignOnly": true,
+  "validFor": "이어진 4일 유효",
+  "validForNames": {
+   "ko": "이어진 4일 유효",
+   "en": "Valid 4 consecutive days",
+   "ja": "連続4日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카 자유석",
+   "en": "All JR lines in Kansai + Haruka non-reserved seats",
+   "ja": "関西のJR全線 + はるか自由席"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "source": "https://www.westjr.co.jp/global/en/ticket/westqr/kansaiarea/"
  },
  {
   "partial": false,
