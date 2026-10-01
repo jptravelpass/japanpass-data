@@ -42,6 +42,7 @@
    31001,
    31005,
    32001,
+   32007,
    33001,
    33008,
    34001,
@@ -71,6 +72,23 @@
     "住ノ江",
     "七道",
     "堺"
+   ],
+   "32007": [
+    "難波",
+    "今宮戎",
+    "新今宮",
+    "萩ノ茶屋",
+    "天下茶屋",
+    "岸里玉出",
+    "帝塚山",
+    "住吉東",
+    "沢ノ町",
+    "我孫子前",
+    "浅香山",
+    "堺東",
+    "三国ヶ丘",
+    "百舌鳥八幡",
+    "中百舌鳥"
    ],
    "33001": [
     "千林",
@@ -261,6 +279,7 @@
    31001,
    31005,
    32001,
+   32007,
    33001,
    33008,
    34001,
@@ -290,6 +309,23 @@
     "住ノ江",
     "七道",
     "堺"
+   ],
+   "32007": [
+    "難波",
+    "今宮戎",
+    "新今宮",
+    "萩ノ茶屋",
+    "天下茶屋",
+    "岸里玉出",
+    "帝塚山",
+    "住吉東",
+    "沢ノ町",
+    "我孫子前",
+    "浅香山",
+    "堺東",
+    "三国ヶ丘",
+    "百舌鳥八幡",
+    "中百舌鳥"
    ],
    "33001": [
     "千林",
@@ -561,6 +597,8 @@
    31023,
    32001,
    32002,
+   32007,
+   32008,
    99606,
    99607,
    99628,
@@ -646,6 +684,8 @@
    31023,
    32001,
    32002,
+   32007,
+   32008,
    99606,
    99607,
    99628,
@@ -1478,6 +1518,17 @@
     "今宮",
     "ＪＲ難波"
    ],
+   "11608": [
+    "神戸",
+    "兵庫",
+    "新長田",
+    "鷹取",
+    "須磨海浜公園",
+    "須磨",
+    "塩屋",
+    "垂水",
+    "舞子"
+   ],
    "11614": [
     "京都",
     "梅小路京都西",
@@ -1488,6 +1539,34 @@
     "太秦",
     "嵯峨嵐山",
     "保津峡"
+   ],
+   "11626": [
+    "天王寺",
+    "美章園",
+    "南田辺",
+    "鶴ケ丘",
+    "長居",
+    "我孫子町",
+    "杉本町",
+    "浅香",
+    "堺市",
+    "三国ケ丘",
+    "百舌鳥",
+    "上野芝",
+    "津久野",
+    "鳳",
+    "富木",
+    "北信太",
+    "信太山",
+    "和泉府中",
+    "久米田",
+    "下松",
+    "東岸和田",
+    "東貝塚",
+    "和泉橋本",
+    "東佐野",
+    "熊取",
+    "日根野"
    ]
   },
   "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansaimini/"
@@ -1679,6 +1758,173 @@
    "to": "2027-03-31"
   },
   "source": "https://www.keihan.co.jp/travel/en/trains/passes-for-visitors-to-japan/osaka-subway.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "난바 출발 값 (다른 역은 값이 다름) · 가는 길·오는 길 한 번씩인 왕복표 · 특급 고야 특급권 포함판 ¥5,200",
+   "en": "Price from Namba (other stations differ) · a round-trip ticket, one ride each way · with Ltd. Exp. Koya ticket ¥5,200",
+   "ja": "難波発の値段(他駅は異なる) · 往復乗車券(行き帰り各1回) · 特急こうや特急券付き5,200円"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "koyasan-heritage",
+  "kind": "PASS",
+  "names": {
+   "ko": "고야산 세계유산 티켓",
+   "en": "Koyasan World Heritage Ticket",
+   "ja": "高野山・世界遺産きっぷ"
+  },
+  "price": 4210,
+  "days": 2,
+  "validFor": "이어진 2일 유효",
+  "validForNames": {
+   "ko": "이어진 2일 유효",
+   "en": "Valid 2 consecutive days",
+   "ja": "連続2日間有効"
+  },
+  "color": "#00A040",
+  "meta": {
+   "ko": "난바 ↔ 고야산 왕복(고야선·케이블) + 고야산 안 버스 2일 · 사찰 할인",
+   "en": "Namba ↔ Koyasan round trip (Koya Line + cable) + Koyasan buses for 2 days · temple discounts",
+   "ja": "難波 ↔ 高野山 往復(高野線・ケーブル) + 高野山内バス2日 · 拝観割引"
+  },
+  "lines": [
+   32007,
+   32008
+  ],
+  "bus": [
+   "koyabus:21",
+   "koyabus:31",
+   "koyabus:32",
+   "koyabus:41",
+   "koyabus:42",
+   "koyabus:43",
+   "koyabus:44",
+   "koyabus:51",
+   "koyabus:52",
+   "koyabus:53",
+   "koyabus:54",
+   "koyabus:55"
+  ],
+  "source": "https://www.nankai.co.jp/traffic/otoku/koyasan.html"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": {
+   "ko": "오카야마·돗토리·기노사키 등 노선망 밖까지 쓸 수 있어요 (이 앱의 계산은 간사이 안만)",
+   "en": "Also valid beyond the map (Okayama, Tottori, Kinosaki …) — this app counts only Kansai",
+   "ja": "ネットワーク外(岡山・鳥取・城崎など)でも使えます(この計算は関西内のみ)"
+  },
+  "verifiedAt": "2026-10-01",
+  "id": "jr-kansai-wide",
+  "kind": "JR ZONE",
+  "names": {
+   "ko": "JR 간사이 와이드 패스",
+   "en": "JR Kansai WIDE Area Pass",
+   "ja": "関西ワイドエリアパス"
+  },
+  "price": 12000,
+  "days": 5,
+  "foreignOnly": true,
+  "validFor": "이어진 5일 유효",
+  "validForNames": {
+   "ko": "이어진 5일 유효",
+   "en": "Valid 5 consecutive days",
+   "ja": "連続5日間有効"
+  },
+  "color": "#0072bc",
+  "meta": {
+   "ko": "간사이 JR 전 노선 + 하루카·구로시오·신칸센(신오사카~오카야마) 지정석",
+   "en": "All JR lines in Kansai + reserved seats on Haruka, Kuroshio and the Shinkansen (Shin-Osaka–Okayama)",
+   "ja": "関西のJR全線 + はるか・くろしお・新幹線(新大阪~岡山)指定席"
+  },
+  "lines": [
+   11602,
+   11603,
+   11608,
+   11601,
+   11614,
+   11617,
+   11618,
+   11607,
+   11623,
+   11624,
+   11625,
+   11626,
+   11628,
+   11629,
+   11641
+  ],
+  "express": [
+   "haruka"
+  ],
+  "source": "https://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/kansai_wide/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "randen-1day",
+  "kind": "LINE",
+  "names": {
+   "ko": "란덴 1일권",
+   "en": "Randen 1-day Pass",
+   "ja": "嵐電1日フリーきっぷ"
+  },
+  "price": 700,
+  "days": 1,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#8b1a1a",
+  "meta": {
+   "ko": "란덴(게이후쿠) 아라시야마 본선·기타노선 전부",
+   "en": "All Randen (Keifuku) Arashiyama and Kitano lines",
+   "ja": "嵐電 嵐山本線・北野線 全線"
+  },
+  "lines": [
+   99612,
+   99613
+  ],
+  "source": "https://www.keifuku.co.jp/cms/randen_ticket/"
+ },
+ {
+  "partial": false,
+  "priceUnverified": false,
+  "note": null,
+  "verifiedAt": "2026-10-01",
+  "id": "eizan-1day",
+  "kind": "LINE",
+  "names": {
+   "ko": "에이잔 전철 1일권",
+   "en": "Eizan Railway 1-day Pass",
+   "ja": "叡山電車1日乗車券「えぇきっぷ」"
+  },
+  "price": 1200,
+  "days": 1,
+  "validFor": "당일 유효",
+  "validForNames": {
+   "ko": "당일 유효",
+   "en": "Valid same day",
+   "ja": "当日有効"
+  },
+  "color": "#c03838",
+  "meta": {
+   "ko": "에이잔 전철 전부 (데마치야나기 ↔ 구라마·야세히에이잔구치)",
+   "en": "All Eizan Railway lines (Demachiyanagi ↔ Kurama, Yase-Hieizanguchi)",
+   "ja": "叡山電車全線(出町柳 ↔ 鞍馬・八瀬比叡山口)"
+  },
+  "lines": [
+   99606,
+   99607
+  ],
+  "source": "https://eizandensha.co.jp/good-value/eekippu/"
  },
  {
   "partial": false,
