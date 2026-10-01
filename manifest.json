@@ -1,6 +1,6 @@
 {
-  "version": 27,
-  "updated": "2026-10-01",
+  "version": 28,
+  "updated": "2026-10-02",
   "files": {
     "passes": "passes.json",
     "passes_kansai": "passes-kansai.json"
