@@ -18,7 +18,7 @@
 <body>
 
 <h1>By-Pass 개인정보 처리방침</h1>
-<p class="updated">최종 수정일: 2026-10-01</p>
+<p class="updated">최종 수정일: 2026-10-02</p>
 
 <p><strong>By-Pass는 이용자의 개인정보를 수집하지 않습니다.</strong> 회원가입, 로그인이 없고, 광고나 사용자 추적(분석) 도구도 넣지 않았습니다.</p>
 
@@ -28,10 +28,11 @@
   <li><strong>경로·요금 계산:</strong> 출발·도착(역, 관광지, 또는 사용자가 고른 좌표)과 고른 패스를 By-Pass 계산 서버(Vercel)로 보내 경로를 받습니다. 서버는 요청 내용을 저장하거나 기록하지 않습니다(Vercel의 서버 접속 기록 정책은 적용됩니다).</li>
   <li><strong>패스 정보 갱신:</strong> GitHub Pages에 올려둔 정적 파일(<code>jptravelpass.github.io/japanpass-data</code>)을 내려받아 최신 정보를 반영합니다. 이 요청에는 개인정보가 담기지 않으며, GitHub의 서버 로그 정책이 적용됩니다.</li>
   <li><strong>지도 표시:</strong> 지도를 그리기 위해 OpenStreetMap 데이터 기반의 CARTO 지도 타일 서버에 요청을 보냅니다. 이 요청은 By-Pass가 아닌 CARTO가 처리하며, 저희는 그 내용을 받아보지 않습니다.</li>
+  <li><strong>관광지 사진:</strong> 추천 목록의 사진은 위키미디어 공용(<code>commons.wikimedia.org</code>)에서 내려받아 기기에 잠시 보관합니다. 이 요청에는 사진 파일 이름만 담기며, 위키미디어 재단이 처리합니다(위키미디어의 서버 접속 기록 정책이 적용됩니다).</li>
 </ul>
 
 <h2>기기에 저장되는 정보</h2>
-<p>표시 언어, 선택한 패스, 경로 탐색 설정(환승 시간 등), 최근 검색한 경로(역·관광지만)는 이용자의 기기 안에 저장됩니다. 경로를 계산할 때 필요한 값만 위의 계산 서버로 보내며, 앱을 지우거나 데이터를 삭제하면 함께 없어집니다.</p>
+<p>표시 언어와 지역, 선택한 패스와 시간권을 처음 쓴 시각, 최근 검색한 경로(역·관광지만), 패스 추천에 넣은 여정(숙소·일차별 목적지·담은 곳)과 최근 여정, 내려받은 패스 정보와 관광지 사진은 이용자의 기기 안에만 저장됩니다. 구글 자동 백업에도 올리지 않습니다. 경로를 계산할 때 필요한 값만 위의 계산 서버로 보내며, 앱을 지우거나 데이터를 삭제하면 함께 없어집니다.</p>
 
 <h2>위치 정보</h2>
 <p>길찾기에서 "현재 위치"를 누를 때만 위치 권한을 요청합니다. 받은 좌표는 그 경로를 계산할 때마다(다시 찾기·시각 변경 포함) 계산 서버로 보내며, 기기나 서버에 저장하지 않습니다. 권한은 휴대폰 설정에서 언제든 끌 수 있습니다.</p>
@@ -47,7 +48,7 @@
 
 <div class="lang">
 <h1>By-Pass Privacy Policy</h1>
-<p class="updated">Last updated: 2026-10-01</p>
+<p class="updated">Last updated: 2026-10-02</p>
 
 <p><strong>By-Pass does not collect personal information.</strong> There is no account or sign-in, and the app contains no ads or user-tracking/analytics tools.</p>
 
@@ -57,10 +58,11 @@
   <li><strong>Route and fare calculation:</strong> The start and end (a station, a place, or a location you chose) and your selected passes are sent to the By-Pass calculation server (Vercel) to get routes. The server does not store or log the request (Vercel's own server-log practices apply).</li>
   <li><strong>Pass updates:</strong> The app downloads static files hosted on GitHub Pages (<code>jptravelpass.github.io/japanpass-data</code>) to keep information current. These requests contain no personal data and are subject to GitHub's own server-log practices.</li>
   <li><strong>Map display:</strong> To draw the map, the app requests map tiles from CARTO (based on OpenStreetMap data). This traffic is handled by CARTO, not by us, and we do not receive or see this data.</li>
+  <li><strong>Place photos:</strong> Photos in the place list are downloaded from Wikimedia Commons (<code>commons.wikimedia.org</code>) and kept on your device for a while. These requests contain only the photo's file name and are handled by the Wikimedia Foundation (Wikimedia's own server-log practices apply).</li>
 </ul>
 
 <h2>Information stored on your device</h2>
-<p>Your display language, chosen passes, route-search settings (such as transfer time), and recent searches (stations and places only) are stored on your device. Only what a route calculation needs is sent to the calculation server above, and everything is removed if you clear the app's data or uninstall it.</p>
+<p>Your display language and region, chosen passes and when you first used a timed pass, recent searches (stations and places only), the trip you entered for pass recommendations (your stay, destinations by day, saved places) and recent trips, and downloaded pass information and place photos are stored only on your device. They are not uploaded to Google's automatic backup. Only what a route calculation needs is sent to the calculation server above, and everything is removed if you clear the app's data or uninstall it.</p>
 
 <h2>Location</h2>
 <p>The app asks for location permission only when you tap "Current location" in route search. That location is sent to the calculation server each time that route is calculated (including refreshes and time changes) and is not stored on your device or on the server. You can turn the permission off at any time in your phone's settings.</p>
